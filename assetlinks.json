@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hamza.resume.app",
+    "sha256_cert_fingerprints":
+    ["DB:DB:8B:85:38:07:EF:E7:65:30:66:83:27:12:FD:BD:5C:12:5C:FF:61:95:02:D3:9C:0D:7A:BD:ED:DF:1F:2C"]
+  }
+}]
